@@ -5,7 +5,7 @@ pipeline{
     {
       steps
       {
-        git 'https://github.com/greenmr830/mavenproject.git'
+        git 'https://github.com/greenmr830/mavenproject.git
       }
     }
     stage("newb branch")
